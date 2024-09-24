@@ -1,2 +1,9 @@
+.navBarContainer {
+   border: 2px solid black;
+}
 
+.profileContainer {
+    display: flex;
+    flex-direction: row;
+}
 
